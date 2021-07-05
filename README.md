@@ -19,7 +19,7 @@ Observe o que deve ser feito nas instruções.
 Após a solução dos exercícios, abra um PR no seu repositório forkado e, se quiser, mergeie para a master, sinta-se a vontade!
 
 **Atenção!** Quando for criar o PR você irá se deparar com essa tela:
-
+  
 ![PR do exercício](images/example-pr.png)
 
 É necessário realizar uma mudança. Clique no *base repository* como na imagem abaixo:
